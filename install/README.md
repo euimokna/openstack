@@ -1,5 +1,10 @@
-  제목H1
-부제목H2
-* 빨강
- * 녹색
-   * 파랑
+# 2016년 upstream : 오픈스택 컨트리뷰션 스터디
+
+*****************************************************************
+
+* 이 저장소는 OpenStack 업스트림 컨트리뷰션과 관련된
+  스터디한 자료를 모아둔 곳입니다.
+* This repository data is for studying OpenStack contribution
+  using upstream training materials.
+
+*****************************************************************
